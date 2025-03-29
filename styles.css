@@ -42,8 +42,8 @@ body::before {
 
 /* Header */
 header {
-    background: rgba(0, 0, 0, 0.7);
-    padding: 20px 0;
+    background: rgba(0, 0, 0, 0.197);
+    padding: 10px 0;
     position: fixed;
     width: 100%;
     top: 0;
@@ -58,7 +58,7 @@ header h1 {
 
 .tagline {
     text-align: center;
-    color: #b0b0b0;
+    color: #c5bbbb;
     margin: 10px 0;
 }
 
